@@ -193,7 +193,7 @@ h3 {
 
 .navbar-logo {
   display: block;                /* removes baseline gap */
-  height: calc(var(--nav-h) - -45px); /* logo fits inside navbar */
+  height: calc(var(--nav-h) - -30px); /* logo fits inside navbar */
   width: auto;
   object-fit: contain;
 }
